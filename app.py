@@ -3,9 +3,7 @@ import pandas as pd
 import numpy as np 
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
-import gensim
-from gensim.utils import simple_preprocess
-from gensim.parsing.preprocessing import STOPWORDS
+
 
 import numpy as np
 
